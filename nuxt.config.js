@@ -1,6 +1,10 @@
 
 export default {
   mode: 'spa',
+  router: {
+    base: '/cv/'
+  },
+
   /*
   ** Headers of the page
   */
@@ -15,9 +19,7 @@ export default {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
-  router: {
-    base: '/cv/'
-  },
+
   /*
   ** Customize the progress-bar color
   */

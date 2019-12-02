@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        Profile
+        CV
       </h1>
       <h2 class="subtitle">
         Profile for Vo Van Do
